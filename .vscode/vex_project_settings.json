@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.3.0",
+		"json": 1
+	},
+	"project": {
+		"name": "DataLogging",
+		"description": "",
+		"creationDate": "11/25/2022, 5:20:31 PM",
+		"platform": "V5",
+		"language": "python",
+		"slot": 1,
+		"sdkVersion": "V5_1_0_1_14",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
